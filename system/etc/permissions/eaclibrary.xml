@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="eaclibrary" file="/system/framework/eaclibrary.jar"/>
+    <library name="foundationcontrols" file="/system/framework/eaclibrary.jar"/>
+
+    <feature name="com.amazon.software.eac"/>
+
+</permissions>

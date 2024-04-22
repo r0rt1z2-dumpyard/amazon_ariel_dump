@@ -1,0 +1,648 @@
+<ACOS>
+  <version>2.9.2</version>
+  <vsbbuild>
+    <msm8974>1293</msm8974>
+    <omap4470>273</omap4470>
+  </vsbbuild>
+  <featurelist>
+    <feature name="common">
+      <version>0.1</version>
+    </feature>
+    <feature name="build_fix">
+      <version>0.1</version>
+    </feature>
+    <feature name="amazon_activity_extender">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_adb_tcp_nagle">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_build_extension">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_dummy_idme">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_log">
+      <version>0.1</version>
+    </feature>
+    <feature name="amazon_resource">
+      <version>0.1</version>
+    </feature>
+    <feature name="amazon_uid">
+      <version>0.1</version>
+    </feature>
+    <feature name="aosp_vulnerabilties">
+      <version>Unkown</version>
+    </feature>
+    <feature name="hcidump">
+      <version>Unkown</version>
+    </feature>
+    <feature name="ota_bootable_recovery">
+      <version>Unkown</version>
+    </feature>
+    <feature name="common_control">
+      <version>0.1</version>
+    </feature>
+    <feature name="devicecontrol">
+      <version>0.1</version>
+    </feature>
+    <feature name="amazon_wan">
+      <version>Unkown</version>
+    </feature>
+    <feature name="download_manager">
+      <version>0.1</version>
+    </feature>
+    <feature name="dynamic_service_AmazonPackageManager">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_service">
+      <version>0.1</version>
+    </feature>
+    <feature name="dynamic_service_AmazonWifiManager">
+      <version>0.1</version>
+    </feature>
+    <feature name="dynamic_service_LibraryWhitelister">
+      <version>Unkown</version>
+    </feature>
+    <feature name="hotfix">
+      <version>0.1</version>
+    </feature>
+    <feature name="libcore_http_connection">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_service_AmazonAccountManager">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_service_CRLSetManager">
+      <version>Unkown</version>
+    </feature>
+    <feature name="icu4j_i18n_utilities">
+      <version>Unkown</version>
+    </feature>
+    <feature name="idme">
+      <version>0.1</version>
+    </feature>
+    <feature name="fwk_inputmethod">
+      <version>Unkown</version>
+    </feature>
+    <feature name="av_mediaplayer">
+      <version>Unkown</version>
+    </feature>
+    <feature name="metrics_log">
+      <version>0.1</version>
+    </feature>
+    <feature name="screenmodes">
+      <version>0.1</version>
+    </feature>
+    <feature name="tools_aapt">
+      <version>Unkown</version>
+    </feature>
+    <feature name="trapz_trace_point">
+      <version>Unkown</version>
+    </feature>
+    <feature name="trapz">
+      <version>0.1</version>
+    </feature>
+    <feature name="amazon_abs_spinner">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_accessibility">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_backup">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_connectivity">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_input">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_internal_certificates">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_library">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_location_provider">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazonprebuiltsapks">
+      <version>0.1</version>
+    </feature>
+    <feature name="amazon_window">
+      <version>Unkown</version>
+    </feature>
+    <feature name="asset_storage">
+      <version>0.1</version>
+    </feature>
+    <feature name="amazon_camera_shutter">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_webview">
+      <version>Unkown</version>
+    </feature>
+    <feature name="certinstaller">
+      <version>Unkown</version>
+    </feature>
+    <feature name="cmf">
+      <version>Unkown</version>
+    </feature>
+    <feature name="common_kernel_tracepoints">
+      <version>Unkown</version>
+    </feature>
+    <feature name="contentsupportprovider">
+      <version>Unkown</version>
+    </feature>
+    <feature name="marketplace_service_receiver">
+      <version>Unkown</version>
+    </feature>
+    <feature name="fwk_crash_log_collection">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_deviceclientmetrics_api">
+      <version>Unkown</version>
+    </feature>
+    <feature name="devicetype">
+      <version>Unkown</version>
+    </feature>
+    <feature name="directtexture">
+      <version>0.1</version>
+    </feature>
+    <feature name="internal_disable_google_pim">
+      <version>0.1</version>
+    </feature>
+    <feature name="internal_disable_google_mms">
+      <version>Unkown</version>
+    </feature>
+    <feature name="internal_disable_google_dialer">
+      <version>Unkown</version>
+    </feature>
+    <feature name="system_core_ditoxi">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_service_AmazonConnectivityManager">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_service_AmazonDownloadManager">
+      <version>0.1</version>
+    </feature>
+    <feature name="dynamic_service_AmazonInputManager">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_service_AmazonLibrary">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_service_AmazonWindowManager">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_service_Chronos">
+      <version>0.1</version>
+    </feature>
+    <feature name="dynamic_service_ClassReplacer">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_service_ContentSupportManager">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_service_DeviceInfo">
+      <version>0.1</version>
+    </feature>
+    <feature name="dynamic_service_FileSharing">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_service_IDME">
+      <version>0.1</version>
+    </feature>
+    <feature name="dynamic_service_Marketplace">
+      <version>0.1</version>
+    </feature>
+    <feature name="dynamic_service_SearchManager">
+      <version>0.1</version>
+    </feature>
+    <feature name="dynamic_service_SoftkeyBar">
+      <version>0.1</version>
+    </feature>
+    <feature name="dynamic_service_TimeService">
+      <version>0.1</version>
+    </feature>
+    <feature name="dynamic_service_WakelockDebug">
+      <version>0.1</version>
+    </feature>
+    <feature name="dynamic_service_FileLinker">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_service_ForwardUtil">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_service_IntentSpreaderService">
+      <version>Unkown</version>
+    </feature>
+    <feature name="eac_common">
+      <version>Unkown</version>
+    </feature>
+    <feature name="enhanced_android_controls">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_compound_controls">
+      <version>Unkown</version>
+    </feature>
+    <feature name="emulator">
+      <version>Unkown</version>
+    </feature>
+    <feature name="fwk_encryption">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_fontcompress">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_fontconfig">
+      <version>Unkown</version>
+    </feature>
+    <feature name="hardware_auth">
+      <version>Unkown</version>
+    </feature>
+    <feature name="i18n_skia">
+      <version>Unkown</version>
+    </feature>
+    <feature name="idmeserial">
+      <version>Unkown</version>
+    </feature>
+    <feature name="interface_loader">
+      <version>Unkown</version>
+    </feature>
+    <feature name="sdk_internal_apis">
+      <version>Unkown</version>
+    </feature>
+    <feature name="kerberos">
+      <version>0.1</version>
+    </feature>
+    <feature name="kindleconnect">
+      <version>Unkown</version>
+    </feature>
+    <feature name="internal_kindle_strings_review">
+      <version>Unkown</version>
+    </feature>
+    <feature name="libtoe">
+      <version>0.1</version>
+    </feature>
+    <feature name="fwk_low_storage">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_amazonfonts">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_awv">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_backup">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_cds_mirroring">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_cms">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_crashmgr">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_credentialmanager">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_dcp">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_discovery">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_geomap">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_geomapv2">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_horizon_sourcing">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware-install">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_jackson">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_logmgr">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_mapr5">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_messaging">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_metrics">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_retaildemo">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_sics">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_tcomm">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_uscc">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_whisperplay">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_whispersyncv2">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_ivona">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_ivona_eng_usa_salli">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_ivona_eng_usa_salli-lite">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_ivona_deu_deu_marlene">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_ivona_eng_gbr_amy">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_ivona_fra_fra_celine">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_ivona_ita_ita_carla">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_ivona_por_bra_vitoria">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_ivona_spa_esp_conchita">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_mtp">
+      <version>0.1</version>
+    </feature>
+    <feature name="amazon_multiple_users">
+      <version>0.1</version>
+    </feature>
+    <feature name="dynamic_service_AmazonActivityManager">
+      <version>Unkown</version>
+    </feature>
+    <feature name="mwjarlibs">
+      <version>0.1</version>
+    </feature>
+    <feature name="mwsolibs">
+      <version>0.1</version>
+    </feature>
+    <feature name="parentalcontrolprovider">
+      <version>0.1</version>
+    </feature>
+    <feature name="piiutil">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_physics">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_privacy">
+      <version>Unkown</version>
+    </feature>
+    <feature name="system_extra_procrank">
+      <version>Unkown</version>
+    </feature>
+    <feature name="product_customize">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazonusermanager">
+      <version>Unkown</version>
+    </feature>
+    <feature name="quicksettings">
+      <version>0.1</version>
+    </feature>
+    <feature name="ota_reset_whitelist">
+      <version>Unkown</version>
+    </feature>
+    <feature name="ota_resize2fs">
+      <version>Unkown</version>
+    </feature>
+    <feature name="sdk_build_system">
+      <version>Unkown</version>
+    </feature>
+    <feature name="shipcleanmode">
+      <version>Unkown</version>
+    </feature>
+    <feature name="fwk_shutdown">
+      <version>Unkown</version>
+    </feature>
+    <feature name="singleuser_exported">
+      <version>Unkown</version>
+    </feature>
+    <feature name="smartvolume">
+      <version>0.1</version>
+    </feature>
+    <feature name="libcore_socketchannel_deadlock_fix">
+      <version>Unkown</version>
+    </feature>
+    <feature name="softkeybar">
+      <version>0.1</version>
+    </feature>
+    <feature name="speechmarks">
+      <version>Unkown</version>
+    </feature>
+    <feature name="sqlite_i18n">
+      <version>Unkown</version>
+    </feature>
+    <feature name="libcore_ssl">
+      <version>Unkown</version>
+    </feature>
+    <feature name="sso">
+      <version>0.1</version>
+    </feature>
+    <feature name="systemui_notifications">
+      <version>Unkown</version>
+    </feature>
+    <feature name="tablet_widget">
+      <version>Unkown</version>
+    </feature>
+    <feature name="talkback">
+      <version>Unkown</version>
+    </feature>
+    <feature name="tutorial">
+      <version>0.1</version>
+    </feature>
+    <feature name="unifiedsearch">
+      <version>0.1</version>
+    </feature>
+    <feature name="unifiedsettingsprovider">
+      <version>0.1</version>
+    </feature>
+    <feature name="hal_wifi_display_p2p">
+      <version>Unkown</version>
+    </feature>
+    <feature name="fwk_wifidisplay">
+      <version>Unkown</version>
+    </feature>
+    <feature name="webviewext">
+      <version>Unkown</version>
+    </feature>
+    <feature name="windowmanager_policy">
+      <version>0.1</version>
+    </feature>
+    <feature name="workaround_finalizer">
+      <version>Unkown</version>
+    </feature>
+    <feature name="libcore_xml_parser">
+      <version>Unkown</version>
+    </feature>
+    <feature name="zram">
+      <version>Unkown</version>
+    </feature>
+    <feature name="kindle_settings">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_remote_views">
+      <version>Unkown</version>
+    </feature>
+    <feature name="lockscreen">
+      <version>Unkown</version>
+    </feature>
+    <feature name="fwk_wifilinkspeednotify">
+      <version>Unkown</version>
+    </feature>
+    <feature name="fireos_tests">
+      <version>Unkown</version>
+    </feature>
+    <feature name="internal_tool_display">
+      <version>Unkown</version>
+    </feature>
+    <feature name="internal_membo">
+      <version>Unkown</version>
+    </feature>
+    <feature name="apps-install">
+      <version>Unkown</version>
+    </feature>
+    <feature name="apps_camera">
+      <version>Unkown</version>
+    </feature>
+    <feature name="internal_disable_latinimeservice">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_service_SmartSuspend">
+      <version>Unkown</version>
+    </feature>
+    <feature name="fdrw">
+      <version>Unkown</version>
+    </feature>
+    <feature name="apps_printplugins">
+      <version>Unkown</version>
+    </feature>
+    <feature name="apps_office">
+      <version>Unkown</version>
+    </feature>
+    <feature name="apps_demomode">
+      <version>Unkown</version>
+    </feature>
+    <feature name="shadows">
+      <version>Unkown</version>
+    </feature>
+    <feature name="animation">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_telephony">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazon_telephony_data_only">
+      <version>Unkown</version>
+    </feature>
+    <feature name="perfboost">
+      <version>Unkown</version>
+    </feature>
+    <feature name="firepower_notifications">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_amazoncardlib">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_contextcardsplatform">
+      <version>Unkown</version>
+    </feature>
+    <feature name="firepowersettingsui">
+      <version>Unkown</version>
+    </feature>
+    <feature name="bt_tablet">
+      <version>Unkown</version>
+    </feature>
+    <feature name="appcompatsettings">
+      <version>Unkown</version>
+    </feature>
+    <feature name="systemlibextractor">
+      <version>Unkown</version>
+    </feature>
+    <feature name="product_name_data">
+      <version>Unkown</version>
+    </feature>
+    <feature name="accessorynotifier">
+      <version>Unkown</version>
+    </feature>
+    <feature name="otaverifier">
+      <version>Unkown</version>
+    </feature>
+    <feature name="adb_secure">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_enhancedcamera">
+      <version>Unkown</version>
+    </feature>
+    <feature name="compat_hinting_framework">
+      <version>Unkown</version>
+    </feature>
+    <feature name="ds_test_app">
+      <version>Unkown</version>
+    </feature>
+    <feature name="enterprise_white_listed_url_manager">
+      <version>Unkown</version>
+    </feature>
+    <feature name="whitelistedurlprovider">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_policy_update">
+      <version>Unkown</version>
+    </feature>
+    <feature name="h2sharingsettings">
+      <version>Unkown</version>
+    </feature>
+    <feature name="amazonpolicymanager">
+      <version>Unkown</version>
+    </feature>
+    <feature name="vitals_collection_agent">
+      <version>Unkown</version>
+    </feature>
+    <feature name="middleware_ssac">
+      <version>Unkown</version>
+    </feature>
+    <feature name="prebuilt_webviewchromium">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dynamic_service_AmazonKeyguardManager">
+      <version>Unkown</version>
+    </feature>
+    <feature name="vendor_nokia_lbs">
+      <version>Unkown</version>
+    </feature>
+    <feature name="dolby">
+      <version>Unkown</version>
+    </feature>
+    <feature name="smartvolume_hardware">
+      <version>0.1</version>
+    </feature>
+  </featurelist>
+</ACOS>
