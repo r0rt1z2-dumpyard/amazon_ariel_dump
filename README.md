@@ -1,0 +1,20 @@
+## full_ariel-user 5.1 LMY47O 20.5.2.2_user_522041550 release-keys
+- Manufacturer: amazon
+- Platform: mt8135
+- Codename: ariel
+- Brand: Amazon
+- Flavor: full_ariel-user
+- Release Version: 5.1
+- Kernel Version: 
+- Id: LMY47O
+- Incremental: 20.5.2.2_user_522041550
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: undefined
+- Screen Density: undefined
+- Fingerprint: Amazon/full_ariel/ariel:5.1/LMY47O/20.5.2.2_user_522041550:user/release-keys
+- OTA version: 
+- Branch: full_ariel-user-5.1-LMY47O-20.5.2.2_user_522041550-release-keys
+- Repo: amazon_ariel_dump

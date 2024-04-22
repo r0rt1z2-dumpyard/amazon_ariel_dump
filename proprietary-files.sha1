@@ -1,0 +1,133 @@
+# All blobs are from "full_ariel-user 5.1 LMY47O 20.5.2.2_user_522041550 release-keys" and are pinned with sha1sum values
+
+# Audio
+
+# Camera
+
+# Charger
+bin/kpoc_charger|0b2f58625869f1defead2dc9cec7788efab5f154
+lib/libshowlogo.so|3b86ab613d30d64da25ce1bff5d1c656627c0c04
+
+# DRM
+vendor/lib/liboemcrypto.so|97f1d4f89de0c8a3f597eff94806d8a1e68c65d7
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so|37375b7a463c010f56a5a7ac34548fdb260d6570
+vendor/lib/mediadrm/libmockdrmcryptoplugin.so|f222a2a0a0f94c429e22e68d15327a040d08a787
+vendor/lib/mediadrm/libplayreadydrmplugin.so|b946d87c42764963dd3e2ba66a2ef952acca3240
+vendor/lib/mediadrm/libwvdrmengine.so|0dacd03286497f1c63f570357902da26911fa187
+
+# Display-Hardware
+vendor/lib/hw/gralloc.mt8135.so|01af2f1b2cf811c36489763922fa1c69ad59753f
+vendor/lib/hw/memtrack.mt8135.so|6f975ccf86e1a6381c527778abee5daf8cabe357
+
+# Dolby
+vendor/etc/dolby/ds1-000F.xml|d9049ea5efdc3dfc266ea634c59fe75c47b673ac
+vendor/etc/dolby/ds1-0012.xml|188db60b5717e0d2ec18a30732c79aba448e066e
+
+# Firmware
+etc/firmware/mt6628_ant_m1.cfg|22f2f7348daa65bb11e1c534b08e73d0ef1328f9
+etc/firmware/mt6628_patch_e1_hdr.bin|658e7e0861399eb7427cce68287202ae9627d4f8
+etc/firmware/mt6628_patch_e2_0_hdr.bin|e1312eb3adef96d6eb9fd3fb96bd32325b8d33dc
+etc/firmware/mt6628_patch_e2_1_hdr.bin|830e2c5b5277cd06e733bd08b2c8fceb998861f5
+etc/firmware/mt6630_ant_m1.cfg|95e68b0899ce428a38074e71e519cb8c596d355d
+etc/firmware/mt6630_patch_e3_0_hdr.bin|95f31bedcc91ff95fdcb9690bed67435f74cc670
+etc/firmware/mt6630_patch_e3_1_hdr.bin|e9ec8a1dc3a6897d083939084b41edcd1181abd3
+etc/firmware/WIFI_RAM_CODE|c3bd0f434227b2b449b879f06760a5592476b001
+etc/firmware/WIFI_RAM_CODE_E6|26ad2deca45ded2283139f12624991865e462861
+etc/firmware/WIFI_RAM_CODE_MT6628|a8507ac10afbba2be5bd5b7a96402795ef635ef7
+etc/firmware/WIFI_RAM_CODE_MT6630|c0c12dbe89dea7f67c7ed42e1c302d2fe8fe11b1
+etc/firmware/WMT.cfg|d4e0634b73ec6b95f0e109512b8b15ceb8f86ab3
+vendor/firmware/maxtouch.20.cfg|eeb9294155f0893e861830e82ed56d0bb948739e
+vendor/firmware/maxtouch.20.fw|22f06ec8bd64c86bf9aa67cbffbbc252ba5cdc53
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+vendor/lib/egl/libEGL_POWERVR_ROGUE.so|759a4a8033921ef0e79b4ea9b513c1c375392703
+vendor/lib/egl/libGLESv1_CM_POWERVR_ROGUE.so|9a05e823623d6b6f147307a7a94b26fcbec0ebc0
+vendor/lib/egl/libGLESv2_POWERVR_ROGUE.so|307f3261c6dc13fb984373eb10222952ef3b5fa9
+
+# Listen
+
+# Media
+vendor/lib/libstagefright_soft_ddpdec.so|2a9c20d069cf28bef653f101a841699423b8c9ba
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
+-vendor/amazon/framework/android.amazon.res/android.amazon.res.apk|86f0c2191530e2b44e85554a98325d0a02e60413
+vendor/app/Ds/arm/Ds.odex|4a33a70f8b4432b7f9c739013e54d482f552b252
+-vendor/app/Ds/Ds.apk|daddd2b00e4b85f137ce2c34a70a3c1def38928d
+vendor/bin/pvrdebug|c7af1372eb452e633507207014cc4a3ed8d4c944
+vendor/bin/pvrsrvctl|e09403feb4c1ca25f1e9bee560bf3b6155454f22
+vendor/data/amz.rsa|f5bfa5f48f3962ecc4110b0694da1bc5f0f9ffb3
+vendor/data/trapz_scripts.tar.gz|e4dac6954a26b1a16ca4bd6b8515342f7e59ffdb
+vendor/data/trapz_xml/1.txt|8e635f56fbdeac4da2db9951ffe53364e4b8878b
+vendor/data/trapz_xml/2.txt|7e081cc7b5e45c15191f1c31ca485ece5bbb8986
+vendor/data/trapz_xml/3.txt|6f4d0688a8cee717398b5c778cf43a09127856be
+vendor/data/trapz_xml/4.txt|972b53ccbede05635bec999933cdeeec7811195d
+vendor/data/ttp/skype-phoenix.rsa|24f8ef33d6c02c566f2ad198342354744a6f1b6f
+vendor/data/ttp/skype-raider.rsa|56484accdf9461b83c3886c195ce9857215f6e38
+vendor/data/ttp/tecla-2013.rsa|4c63a22940efd31c43bb44393d34e00be7911405
+vendor/data/ttp/tecla-2014.rsa|e0812332fb4838ebbdd813843049b0f38343b020
+vendor/lib/drm/libdrmwvmplugin.so|28a079cc0110e06f146a41f78df730275edf45ef
+vendor/lib/libdlbdapstorage.so|8f620f855715538e9b0d9dc2a2aae8910bd28e57
+vendor/lib/libglslcompiler.so|4d99200b67c2031a62984a9b4361dc10b8396292
+vendor/lib/libIMGegl.so|af9c806f0faa854cf648a7dabea85d738c2894c5
+vendor/lib/libpvrANDROID_WSEGL.so|3f1886ea15c27bdd1f353a5ae48e1ed07cd4d693
+vendor/lib/libPVRScopeServices.so|ce29ade6b81f800b7fa3a718feb049dbebc29037
+vendor/lib/libsrv_init.so|1496029bb0ffb3f0b3e4523cc4d41135e771948c
+vendor/lib/libsrv_um.so|4cd88e32c6d427204bdf603bc75c050e21141f40
+vendor/lib/libusc.so|190db1b61243e0ae0b118da4579c367eecf77705
+vendor/lib/libwvdrm_L1.so|1f7e43bb63c0e6d830b690ec4bcb6a864f87268b
+vendor/lib/libwvm.so|cf2b9aa11d610843411166ddcf4cad10047e4673
+vendor/lib/libWVStreamControlAPI_L1.so|0089565d01e013346a862268f2eadd3f3566d965
+vendor/lib/soundfx/libswdap.so|426aa70311c95c07ce0773e95126206b29614b20
+vendor/oprofile/oprofile-boot|a1f4500eec6f27dcef348152a8f9eb6d742802c3
+vendor/smartvolume/ariel/anlg_dock_headset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/ariel/aux_digital.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/ariel/bt_a2dp.csv|93dfaa6d29bc133367b76562d853c93877a0d407
+vendor/smartvolume/ariel/bt_a2dp_headphones.csv|93dfaa6d29bc133367b76562d853c93877a0d407
+vendor/smartvolume/ariel/bt_a2dp_speaker.csv|93dfaa6d29bc133367b76562d853c93877a0d407
+vendor/smartvolume/ariel/bt_sco.csv|93dfaa6d29bc133367b76562d853c93877a0d407
+vendor/smartvolume/ariel/bt_sco_carkit.csv|93dfaa6d29bc133367b76562d853c93877a0d407
+vendor/smartvolume/ariel/bt_sco_headset.csv|93dfaa6d29bc133367b76562d853c93877a0d407
+vendor/smartvolume/ariel/default.csv|93dfaa6d29bc133367b76562d853c93877a0d407
+vendor/smartvolume/ariel/dgtl_dock_headeset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/ariel/earpiece.csv|93dfaa6d29bc133367b76562d853c93877a0d407
+vendor/smartvolume/ariel/fm_radio_tx.csv|e63a96376ad3ab62dc9cdfd0e0e4837b11ef6673
+vendor/smartvolume/ariel/speaker.csv|93dfaa6d29bc133367b76562d853c93877a0d407
+vendor/smartvolume/ariel/wired_headphone.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/ariel/wired_headset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/aston/anlg_dock_headset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/aston/aux_digital.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/aston/bt_a2dp.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/aston/bt_a2dp_headphones.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/aston/bt_a2dp_speaker.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/aston/bt_sco.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/aston/bt_sco_carkit.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/aston/bt_sco_headset.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/aston/default.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/aston/dgtl_dock_headeset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/aston/earpiece.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/aston/fm_radio_tx.csv|e63a96376ad3ab62dc9cdfd0e0e4837b11ef6673
+vendor/smartvolume/aston/speaker.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/aston/wired_headphone.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/aston/wired_headset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
