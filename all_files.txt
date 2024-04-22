@@ -34,6 +34,7 @@ boot/ramdisk/sepolicy
 boot/ramdisk/ueventd.mt8135.rc
 boot/ramdisk/ueventd.rc
 bootRE/boot_kallsyms.txt
+join_split_files.sh
 proprietary-files.sha1
 proprietary-files.txt
 README.md
