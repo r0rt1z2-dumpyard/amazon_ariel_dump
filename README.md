@@ -1,0 +1,20 @@
+## full_ariel-user 4.4.3 KTU84M 20.4.5.3_user_453011120 release-keys
+- Manufacturer: amazon
+- Platform: mt8135
+- Codename: ariel
+- Brand: Amazon
+- Flavor: user
+- Release Version: 4.4.3
+- Kernel Version: 
+- Id: KTU84M
+- Incremental: 20.4.5.3_user_453011120
+- Tags: release-keys
+- CPU Abilist: 
+- A/B Device: false
+- Treble Device: false
+- Locale: undefined
+- Screen Density: 240
+- Fingerprint: Amazon/full_ariel/ariel:4.4.3/KTU84M/20.4.5.3_user_453011120:user/release-keys
+- OTA version: 
+- Branch: full_ariel-user-4.4.3-KTU84M-20.4.5.3_user_453011120-release-keys
+- Repo: amazon_ariel_dump

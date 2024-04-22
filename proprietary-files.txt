@@ -1,0 +1,222 @@
+# All blobs from full_ariel-user 4.4.3 KTU84M 20.4.5.3_user_453011120 release-keys, unless pinned
+
+# Audio
+
+# Audio-Hardware
+vendor/lib/hw/audio.a2dp.mt8135.so
+
+# Bluetooth
+vendor/lib/hw/bluetooth.mt8135.so
+
+# Camera
+
+# Charger
+bin/kpoc_charger
+lib/libshowlogo.so
+
+# DRM
+vendor/lib/liboemcrypto.so
+
+# DRM-Widevine
+vendor/lib/mediadrm/libmockdrmcryptoplugin.so
+vendor/lib/mediadrm/libplayreadydrmplugin.so
+vendor/lib/mediadrm/libwvdrmengine.so
+
+# Display-Hardware
+vendor/lib/hw/gralloc.mt8135.so
+
+# Firmware
+etc/firmware/mt6628_ant_m1.cfg
+etc/firmware/mt6628_patch_e1_hdr.bin
+etc/firmware/mt6628_patch_e2_0_hdr.bin
+etc/firmware/mt6628_patch_e2_1_hdr.bin
+etc/firmware/WIFI_RAM_CODE
+etc/firmware/WIFI_RAM_CODE_E6
+etc/firmware/WIFI_RAM_CODE_MT6628
+vendor/firmware/maxtouch.20.cfg
+vendor/firmware/maxtouch.20.fw
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+vendor/lib/egl/libEGL_POWERVR_ROGUE.so
+vendor/lib/egl/libGLESv1_CM_POWERVR_ROGUE.so
+vendor/lib/egl/libGLESv2_POWERVR_ROGUE.so
+
+# Listen
+
+# Media
+vendor/lib/libstagefright_soft_ddpdec.so
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
+-vendor/amazon/framework/framework-res.apk
+-vendor/app/Ds.apk
+vendor/app/Ds.odex
+vendor/bin/pvrdebug
+vendor/bin/pvrsrvctl
+vendor/data/amz.rsa
+vendor/data/images/200favicon.png
+vendor/data/images/400favicon.png
+vendor/data/images/com.amazon.betaadc.png
+vendor/data/images/com.amazon.calculator.png
+vendor/data/images/com.amazon.camera.png
+vendor/data/images/com.amazon.cloud9.png
+vendor/data/images/com.amazon.csapp.png
+vendor/data/images/com.amazon.geo.client.maps.png
+vendor/data/images/com.amazon.kindle.facebook.png
+vendor/data/images/com.amazon.mw.png
+vendor/data/images/com.amazon.otter.tutorial.png
+vendor/data/images/com.amazon.tahoe.png
+vendor/data/images/com.amazon.weather.png
+vendor/data/images/com.amazon.windowshop.png
+vendor/data/images/com.amazon.windowshop.wishlist.png
+vendor/data/images/com.amazon.windowshop.wishlist_en.png
+vendor/data/images/com.android.calendar.png
+vendor/data/images/com.android.contacts.png
+vendor/data/images/com.android.deskclock.png
+vendor/data/images/com.android.email.png
+vendor/data/images/com.android.providers.downloads.ui.png
+vendor/data/images/com.android.settings.png
+vendor/data/images/com.audible.application.kindle.png
+vendor/data/images/com.cooliris.media.png
+vendor/data/images/com.goodreads.kindle.png
+vendor/data/images/com.imdb.mobile.png
+vendor/data/images/com.qo.android.oemvc.png
+vendor/data/images/com.skype.raider.png
+vendor/data/images/imdb_307.png
+vendor/data/images/mop_pim_compose.png
+vendor/data/images/mop_pim_contacts.png
+vendor/data/images/mop_pim_inbox.png
+vendor/data/images/mop_pim_thisweek.png
+vendor/data/images/mop_welcome_kug.png
+vendor/data/images/mop_welcome_setup.png
+vendor/data/images/placeholder_preview_ad.png
+vendor/data/images/placeholder_preview_app.png
+vendor/data/images/placeholder_preview_audiobook.png
+vendor/data/images/placeholder_preview_book.png
+vendor/data/images/placeholder_preview_calendar.png
+vendor/data/images/placeholder_preview_doc.png
+vendor/data/images/placeholder_preview_magazine.png
+vendor/data/images/placeholder_preview_movie.png
+vendor/data/images/placeholder_preview_music.png
+vendor/data/images/placeholder_preview_newspaper.png
+vendor/data/images/placeholder_preview_photo.png
+vendor/data/images/placeholder_preview_television.png
+vendor/data/images/placeholder_preview_video.png
+vendor/data/images/placeholder_preview_web.png
+vendor/data/images/placeholder_thumbnail_ad.png
+vendor/data/images/placeholder_thumbnail_app.png
+vendor/data/images/placeholder_thumbnail_audiobook.png
+vendor/data/images/placeholder_thumbnail_book.png
+vendor/data/images/placeholder_thumbnail_calendar.png
+vendor/data/images/placeholder_thumbnail_collections_fav_app.png
+vendor/data/images/placeholder_thumbnail_collections_fav_book.png
+vendor/data/images/placeholder_thumbnail_collections_lib_book.png
+vendor/data/images/placeholder_thumbnail_doc.png
+vendor/data/images/placeholder_thumbnail_magazine.png
+vendor/data/images/placeholder_thumbnail_movie.png
+vendor/data/images/placeholder_thumbnail_music.png
+vendor/data/images/placeholder_thumbnail_newspaper.png
+vendor/data/images/placeholder_thumbnail_photo.png
+vendor/data/images/placeholder_thumbnail_television.png
+vendor/data/images/placeholder_thumbnail_video.png
+vendor/data/images/placeholder_thumbnail_web.png
+vendor/data/images/tall_com.amazon.betaadc.png
+vendor/data/images/tall_com.amazon.calculator.png
+vendor/data/images/tall_com.amazon.camera.png
+vendor/data/images/tall_com.amazon.cloud9.png
+vendor/data/images/tall_com.amazon.csapp.png
+vendor/data/images/tall_com.amazon.geo.client.maps.png
+vendor/data/images/tall_com.amazon.kindle.facebook.png
+vendor/data/images/tall_com.amazon.mw.png
+vendor/data/images/tall_com.amazon.otter.tutorial.png
+vendor/data/images/tall_com.amazon.tahoe.png
+vendor/data/images/tall_com.amazon.weather.png
+vendor/data/images/tall_com.amazon.windowshop.png
+vendor/data/images/tall_com.amazon.windowshop.wishlist.png
+vendor/data/images/tall_com.android.calendar.png
+vendor/data/images/tall_com.android.contacts.png
+vendor/data/images/tall_com.android.deskclock.png
+vendor/data/images/tall_com.android.email.png
+vendor/data/images/tall_com.android.providers.downloads.ui.png
+vendor/data/images/tall_com.android.settings.png
+vendor/data/images/tall_com.audible.application.kindle.png
+vendor/data/images/tall_com.cooliris.media.png
+vendor/data/images/tall_com.goodreads.kindle.png
+vendor/data/images/tall_com.imdb.mobile.png
+vendor/data/images/tall_com.qo.android.oemvc.png
+vendor/data/images/tall_com.skype.raider.png
+vendor/data/trapz_scripts.tar.gz
+vendor/data/trapz_xml/1.txt
+vendor/data/trapz_xml/2.txt
+vendor/data/trapz_xml/3.txt
+vendor/data/trapz_xml/4.txt
+vendor/data/ttp/myfitnesspal.rsa
+vendor/data/ttp/skype-phoenix.rsa
+vendor/data/ttp/skype-raider.rsa
+vendor/data/ttp/tecla-2013.rsa
+vendor/data/ttp/tecla-2014.rsa
+vendor/lib/drm/libdrmwvmplugin.so
+vendor/lib/libbltsville_gc2d.2.2.2.0.so
+vendor/lib/libbltsville_ticpu.2.1.0.0.so
+vendor/lib/libbltsville_ticpu_license.txt
+vendor/lib/libglslcompiler.so
+vendor/lib/libIMGegl.so
+vendor/lib/libpvrANDROID_WSEGL.so
+vendor/lib/libPVRScopeServices.so
+vendor/lib/libsrv_init.so
+vendor/lib/libsrv_um.so
+vendor/lib/libusc.so
+vendor/lib/libwvdrm_L1.so
+vendor/lib/libwvm.so
+vendor/lib/libWVStreamControlAPI_L1.so
+vendor/lib/soundfx/libswdap.so
+vendor/oprofile/oprofile-boot
+vendor/smartvolume/ariel/anlg_dock_headset.csv
+vendor/smartvolume/ariel/aux_digital.csv
+vendor/smartvolume/ariel/bt_a2dp.csv
+vendor/smartvolume/ariel/bt_a2dp_headphones.csv
+vendor/smartvolume/ariel/bt_a2dp_speaker.csv
+vendor/smartvolume/ariel/bt_sco.csv
+vendor/smartvolume/ariel/bt_sco_carkit.csv
+vendor/smartvolume/ariel/bt_sco_headset.csv
+vendor/smartvolume/ariel/default.csv
+vendor/smartvolume/ariel/dgtl_dock_headeset.csv
+vendor/smartvolume/ariel/earpiece.csv
+vendor/smartvolume/ariel/fm_radio_tx.csv
+vendor/smartvolume/ariel/speaker.csv
+vendor/smartvolume/ariel/wired_headphone.csv
+vendor/smartvolume/ariel/wired_headset.csv
+vendor/smartvolume/aston/anlg_dock_headset.csv
+vendor/smartvolume/aston/aux_digital.csv
+vendor/smartvolume/aston/bt_a2dp.csv
+vendor/smartvolume/aston/bt_a2dp_headphones.csv
+vendor/smartvolume/aston/bt_a2dp_speaker.csv
+vendor/smartvolume/aston/bt_sco.csv
+vendor/smartvolume/aston/bt_sco_carkit.csv
+vendor/smartvolume/aston/bt_sco_headset.csv
+vendor/smartvolume/aston/default.csv
+vendor/smartvolume/aston/dgtl_dock_headeset.csv
+vendor/smartvolume/aston/earpiece.csv
+vendor/smartvolume/aston/fm_radio_tx.csv
+vendor/smartvolume/aston/speaker.csv
+vendor/smartvolume/aston/wired_headphone.csv
+vendor/smartvolume/aston/wired_headset.csv
