@@ -1,0 +1,192 @@
+# All blobs are from "full_ariel-user 5.1.1 LVY48F 20.6.0.5_user_605490320 release-keys" and are pinned with sha1sum values
+
+# Audio
+
+# Camera
+
+# Charger
+bin/kpoc_charger|0b2f58625869f1defead2dc9cec7788efab5f154
+lib/libshowlogo.so|b55a1240bf6b7cafe8f4510939119be41d572cf3
+
+# DRM
+vendor/lib/liboemcrypto.so|97f1d4f89de0c8a3f597eff94806d8a1e68c65d7
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so|c4f2794144c42234d12c74697c6a61a74803d62b
+vendor/lib/mediadrm/libmockdrmcryptoplugin.so|f222a2a0a0f94c429e22e68d15327a040d08a787
+vendor/lib/mediadrm/libplayreadydrmplugin.so|ed745261b0fc1ae8cac4a1ba1301d352b7b0586a
+vendor/lib/mediadrm/libwvdrmengine.so|0dacd03286497f1c63f570357902da26911fa187
+
+# Display-Hardware
+vendor/lib/hw/gralloc.mt8135.so|d089651c65f2778752d464623d951a0cee99dd50
+vendor/lib/hw/memtrack.mt8135.so|ffd20d619244d528d97f53979669ed8bba1ef1d7
+
+# Dolby
+vendor/etc/dolby/ds1-000F.xml|d9049ea5efdc3dfc266ea634c59fe75c47b673ac
+vendor/etc/dolby/ds1-0012.xml|188db60b5717e0d2ec18a30732c79aba448e066e
+
+# Firmware
+etc/firmware/mt6628_ant_m1.cfg|22f2f7348daa65bb11e1c534b08e73d0ef1328f9
+etc/firmware/mt6628_patch_e1_hdr.bin|658e7e0861399eb7427cce68287202ae9627d4f8
+etc/firmware/mt6628_patch_e2_0_hdr.bin|466da0cf5c32bfc33c8853fd4514d036e87f3435
+etc/firmware/mt6628_patch_e2_1_hdr.bin|a220097358b8de6844f5b6d115ed4f80dbe000c7
+etc/firmware/mt6630_ant_m1.cfg|95e68b0899ce428a38074e71e519cb8c596d355d
+etc/firmware/mt6630_patch_e3_0_hdr.bin|3ee02fe777cbf4ac65a059b29f39068e50415b95
+etc/firmware/mt6630_patch_e3_1_hdr.bin|f9ca5e67087d6bae82b7d0cb225d90d9f6bcef2c
+etc/firmware/WIFI_RAM_CODE|c3bd0f434227b2b449b879f06760a5592476b001
+etc/firmware/WIFI_RAM_CODE_E6|26ad2deca45ded2283139f12624991865e462861
+etc/firmware/WIFI_RAM_CODE_MT6628|2531b21cfb2410b49a8764a214f84a61bc77fd9d
+etc/firmware/WIFI_RAM_CODE_MT6630|a19519258d70d3bba2f5b9eea42de4579862914a
+etc/firmware/WMT.cfg|d4e0634b73ec6b95f0e109512b8b15ceb8f86ab3
+vendor/firmware/maxtouch.20.cfg|eeb9294155f0893e861830e82ed56d0bb948739e
+vendor/firmware/maxtouch.20.fw|22f06ec8bd64c86bf9aa67cbffbbc252ba5cdc53
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+vendor/lib/egl/libEGL_POWERVR_ROGUE.so|2879c6eb1c501369917d2418d9ecf11430d29020
+vendor/lib/egl/libGLESv1_CM_POWERVR_ROGUE.so|a9813c67d146b96c873ca3c60813b94d393b47bf
+vendor/lib/egl/libGLESv2_POWERVR_ROGUE.so|e1ae058e11aabb29d73b58fbfec2d3b44f519f87
+
+# Listen
+
+# Media
+vendor/lib/libstagefright_soft_ddpdec.so|1cc3ee45b48e88e4a99ab8d675d66b2b08ce9d94
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WFD
+lib/libwfdscups.so|702d2f3825c2db171647a0dbfe103c73a8a7b68b
+lib/libwfdsjpeg.so|a88de9bf07d0c64651f896e745fdc99ec58c2055
+lib/libwfdsSupport.so|e3cb691017cd723551a6988184e9d563931ddd9c
+
+# WiFi
+
+# Misc
+vendor/app/Ds/arm/Ds.odex|44452708b625f87ce82312f5f90650106e0a0067
+-vendor/app/Ds/Ds.apk|8006a5bc71344495089c151f0c1a84017e42df61
+vendor/bin/pvrdebug|263f3b74d5df7765f0068e79e0f012b9cc793916
+vendor/bin/pvrsrvctl|9ecf7d8dfc011fb79eac4827ef10656c233377e7
+vendor/data/amz.rsa|f5bfa5f48f3962ecc4110b0694da1bc5f0f9ffb3
+vendor/data/images/com.amazon.ags.app.png|56def8758eb7a72f45f797a48200df241aa7482f
+vendor/data/images/com.amazon.avod.png|6f49e0bb430912c98690eef643d79cb74a22babf
+vendor/data/images/com.amazon.calculator.png|d0fc3caa5f7fab0e153e52a0d82c609c9311d6c2
+vendor/data/images/com.amazon.camera.png|59d31a2930a00bc42442b89b315f443fa24de8e3
+vendor/data/images/com.amazon.cloud9.png|1db4bc7b921c1846dd16a1595534965a37c99fc8
+vendor/data/images/com.amazon.csapp.png|6e5be070c8acd8baffc4c6c96f4496d5331621d2
+vendor/data/images/com.amazon.dee.app.png|c2f1e684d3d02b2e9a38a5b38216fd9270faed97
+vendor/data/images/com.amazon.edu.dialog.png|940fbf81f32feca8ecab268bdf3eadc9e04145bd
+vendor/data/images/com.amazon.geo.client.maps.png|cbf6dd24309589878eed457c73fd98af57ee2c82
+vendor/data/images/com.amazon.kindle.kso.png|d73943d567375db4d1abf0b736973b120a2e5e71
+vendor/data/images/com.amazon.kindle.personal_video.png|d729899154cfc73d485ed7a46ec26a4204afc365
+vendor/data/images/com.amazon.mp3.png|65de8b50e99eb0a437993598c9062a696b2fc790
+vendor/data/images/com.amazon.mw.png|650e2028cec0c33544801250698aee603df07d10
+vendor/data/images/com.amazon.photos.importer.png|f8437cb6acccb8fc1fd27e242f46e8ae80d130d1
+vendor/data/images/com.amazon.tahoe_com.amazon.tahoe.ui.activities.ProfilePickerActivity.png|ab70b03a2aef4aa94af5c31f82fa50185a1ab6ba
+vendor/data/images/com.amazon.tahoe_com.amazon.tahoe.ui.activities.ProfilePickerUkActivity.png|98928ae8000d31d1c6bae0e52b929f98ec45fddc
+vendor/data/images/com.amazon.venezia.png|1db2fe69cf83a5a808cd90001486c4aa13975dcc
+vendor/data/images/com.amazon.weather.png|f531058e3f5226f1de8833459683686179ee1966
+vendor/data/images/com.amazon.windowshop.png|061dc59a19739f409826ed75eb50ff9d0bc7cba6
+vendor/data/images/com.amazon.zico.png|afd8e6250e958a528557aa3eeb3fd675e79df505
+vendor/data/images/com.android.calendar.png|743c20e054f93b3c1be16846dbe94e0373f505c1
+vendor/data/images/com.android.contacts.png|c5f490f2c5c5aeb066888bd97bc3361bb817d1ad
+vendor/data/images/com.android.deskclock.png|04cdf49d6954ec84ded500ed8d4f5a93a6c2664e
+vendor/data/images/com.android.email.png|ae3dd8fc7416d27945c162d315371b5897270e83
+vendor/data/images/com.android.settings.png|9613ef3207fa0432e85e0da51b41c94ea965fa15
+vendor/data/images/com.audible.application.kindle.png|55f1a7d3d6d7371c9aa9a4fa86537e61d23b70b0
+vendor/data/images/com.goodreads.kindle.png|01b03ac548ea26731bbe9c460351c4e91233fc4d
+vendor/data/images/tall_com.amazon.ags.app.png|56def8758eb7a72f45f797a48200df241aa7482f
+vendor/data/images/tall_com.amazon.avod.png|6f49e0bb430912c98690eef643d79cb74a22babf
+vendor/data/images/tall_com.amazon.calculator.png|d0fc3caa5f7fab0e153e52a0d82c609c9311d6c2
+vendor/data/images/tall_com.amazon.camera.png|59d31a2930a00bc42442b89b315f443fa24de8e3
+vendor/data/images/tall_com.amazon.cloud9.png|1db4bc7b921c1846dd16a1595534965a37c99fc8
+vendor/data/images/tall_com.amazon.csapp.png|6e5be070c8acd8baffc4c6c96f4496d5331621d2
+vendor/data/images/tall_com.amazon.dee.app.png|c2f1e684d3d02b2e9a38a5b38216fd9270faed97
+vendor/data/images/tall_com.amazon.edu.dialog.png|940fbf81f32feca8ecab268bdf3eadc9e04145bd
+vendor/data/images/tall_com.amazon.geo.client.maps.png|cbf6dd24309589878eed457c73fd98af57ee2c82
+vendor/data/images/tall_com.amazon.kindle.kso.png|d73943d567375db4d1abf0b736973b120a2e5e71
+vendor/data/images/tall_com.amazon.kindle.personal_video.png|d729899154cfc73d485ed7a46ec26a4204afc365
+vendor/data/images/tall_com.amazon.mp3.png|65de8b50e99eb0a437993598c9062a696b2fc790
+vendor/data/images/tall_com.amazon.mw.png|650e2028cec0c33544801250698aee603df07d10
+vendor/data/images/tall_com.amazon.photos.importer.png|f8437cb6acccb8fc1fd27e242f46e8ae80d130d1
+vendor/data/images/tall_com.amazon.tahoe_com.amazon.tahoe.ui.activities.ProfilePickerActivity.png|ab70b03a2aef4aa94af5c31f82fa50185a1ab6ba
+vendor/data/images/tall_com.amazon.tahoe_com.amazon.tahoe.ui.activities.ProfilePickerUkActivity.png|98928ae8000d31d1c6bae0e52b929f98ec45fddc
+vendor/data/images/tall_com.amazon.venezia.png|1db2fe69cf83a5a808cd90001486c4aa13975dcc
+vendor/data/images/tall_com.amazon.weather.png|f531058e3f5226f1de8833459683686179ee1966
+vendor/data/images/tall_com.amazon.windowshop.png|061dc59a19739f409826ed75eb50ff9d0bc7cba6
+vendor/data/images/tall_com.amazon.zico.png|afd8e6250e958a528557aa3eeb3fd675e79df505
+vendor/data/images/tall_com.android.calendar.png|743c20e054f93b3c1be16846dbe94e0373f505c1
+vendor/data/images/tall_com.android.contacts.png|c5f490f2c5c5aeb066888bd97bc3361bb817d1ad
+vendor/data/images/tall_com.android.deskclock.png|04cdf49d6954ec84ded500ed8d4f5a93a6c2664e
+vendor/data/images/tall_com.android.email.png|ae3dd8fc7416d27945c162d315371b5897270e83
+vendor/data/images/tall_com.android.settings.png|9613ef3207fa0432e85e0da51b41c94ea965fa15
+vendor/data/images/tall_com.audible.application.kindle.png|55f1a7d3d6d7371c9aa9a4fa86537e61d23b70b0
+vendor/data/images/tall_com.goodreads.kindle.png|01b03ac548ea26731bbe9c460351c4e91233fc4d
+vendor/data/tl1.rsa|6aaf0025fcd748b0bfee3cb26eba65ed1fa5ea10
+vendor/data/trapz_scripts.tar.gz|ba089457bbc934315c937feded5a9c1ef08e7ed6
+vendor/data/trapz_xml/1.txt|67b9d72c0957b12729ae130ca724ae9e59b6b4ba
+vendor/data/trapz_xml/2.txt|7e081cc7b5e45c15191f1c31ca485ece5bbb8986
+vendor/data/trapz_xml/3.txt|6f4d0688a8cee717398b5c778cf43a09127856be
+vendor/data/trapz_xml/4.txt|972b53ccbede05635bec999933cdeeec7811195d
+vendor/data/ttp/qq.rsa|b90a8d638b3756951e9057a7f1163e2097e85e46
+vendor/data/ttp/skype-phoenix.rsa|24f8ef33d6c02c566f2ad198342354744a6f1b6f
+vendor/data/ttp/skype-raider.rsa|56484accdf9461b83c3886c195ce9857215f6e38
+vendor/data/ttp/tecla-2013.rsa|4c63a22940efd31c43bb44393d34e00be7911405
+vendor/data/ttp/tecla-2014.rsa|e0812332fb4838ebbdd813843049b0f38343b020
+vendor/lib/drm/libdrmwvmplugin.so|28a079cc0110e06f146a41f78df730275edf45ef
+vendor/lib/libdlbdapstorage.so|8f620f855715538e9b0d9dc2a2aae8910bd28e57
+vendor/lib/libglslcompiler.so|e125044b92156b620603ade7c4bcf3d325438c9e
+vendor/lib/libIMGegl.so|7b6ce2bdab7a6f2cfbd78765dded32fe0d4c74c9
+vendor/lib/libpvrANDROID_WSEGL.so|264bf341a645aeae790e28bca3247bb4941ccf38
+vendor/lib/libPVRScopeServices.so|6b8257f5b385f57fc2d083a4ed6b773c5f9b2015
+vendor/lib/libsrv_init.so|c9467be04cd4c19bc1b5bad0df8bb1888c17c1b5
+vendor/lib/libsrv_um.so|c5f73f38cf16d9e546fa68b199b74c6549235099
+vendor/lib/libusc.so|7e884c77fbeb10ad9db68662018762d1eb19353c
+vendor/lib/libwvdrm_L1.so|1f7e43bb63c0e6d830b690ec4bcb6a864f87268b
+vendor/lib/libwvm.so|cf2b9aa11d610843411166ddcf4cad10047e4673
+vendor/lib/libWVStreamControlAPI_L1.so|0089565d01e013346a862268f2eadd3f3566d965
+vendor/lib/soundfx/libswdap.so|c7cb519242f0d35428d0ed6ea1ef2ebd32c4fe30
+vendor/smartvolume/ariel/anlg_dock_headset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/ariel/aux_digital.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/ariel/bt_a2dp.csv|38c5c4efcd2897efc2e4c11468cbe0ec554d4244
+vendor/smartvolume/ariel/bt_a2dp_headphones.csv|38c5c4efcd2897efc2e4c11468cbe0ec554d4244
+vendor/smartvolume/ariel/bt_a2dp_speaker.csv|38c5c4efcd2897efc2e4c11468cbe0ec554d4244
+vendor/smartvolume/ariel/bt_sco.csv|93dfaa6d29bc133367b76562d853c93877a0d407
+vendor/smartvolume/ariel/bt_sco_carkit.csv|93dfaa6d29bc133367b76562d853c93877a0d407
+vendor/smartvolume/ariel/bt_sco_headset.csv|93dfaa6d29bc133367b76562d853c93877a0d407
+vendor/smartvolume/ariel/default.csv|93dfaa6d29bc133367b76562d853c93877a0d407
+vendor/smartvolume/ariel/dgtl_dock_headeset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/ariel/earpiece.csv|93dfaa6d29bc133367b76562d853c93877a0d407
+vendor/smartvolume/ariel/fm_radio_tx.csv|e63a96376ad3ab62dc9cdfd0e0e4837b11ef6673
+vendor/smartvolume/ariel/speaker.csv|93dfaa6d29bc133367b76562d853c93877a0d407
+vendor/smartvolume/ariel/wired_headphone.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/ariel/wired_headset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/aston/anlg_dock_headset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/aston/aux_digital.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/aston/bt_a2dp.csv|38c5c4efcd2897efc2e4c11468cbe0ec554d4244
+vendor/smartvolume/aston/bt_a2dp_headphones.csv|38c5c4efcd2897efc2e4c11468cbe0ec554d4244
+vendor/smartvolume/aston/bt_a2dp_speaker.csv|38c5c4efcd2897efc2e4c11468cbe0ec554d4244
+vendor/smartvolume/aston/bt_sco.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/aston/bt_sco_carkit.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/aston/bt_sco_headset.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/aston/default.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/aston/dgtl_dock_headeset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/aston/earpiece.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/aston/fm_radio_tx.csv|e63a96376ad3ab62dc9cdfd0e0e4837b11ef6673
+vendor/smartvolume/aston/speaker.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/aston/wired_headphone.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/aston/wired_headset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb

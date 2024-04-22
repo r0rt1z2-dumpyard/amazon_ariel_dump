@@ -1,0 +1,20 @@
+## full_ariel-user 5.1.1 LVY48F 20.6.0.5_user_605490320 release-keys
+- Manufacturer: amazon
+- Platform: mt8135
+- Codename: ariel
+- Brand: Amazon
+- Flavor: full_ariel-user
+- Release Version: 5.1.1
+- Kernel Version: 
+- Id: LVY48F
+- Incremental: 20.6.0.5_user_605490320
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: undefined
+- Screen Density: undefined
+- Fingerprint: Amazon/full_ariel/ariel:5.1.1/LVY48F/20.6.0.5_user_605490320:user/release-keys
+- OTA version: 
+- Branch: full_ariel-user-5.1.1-LVY48F-20.6.0.5_user_605490320-release-keys
+- Repo: amazon_ariel_dump
